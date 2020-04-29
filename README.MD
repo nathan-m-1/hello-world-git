@@ -35,7 +35,7 @@ Underline 2
 - [Esto es un link al index](index.html)
 
 # Imagenes
-![Logo GitHub](https://www.pngitem.com/pimgs/m/128-1280162_github-logo-png-cat-transparent-png.png)
+![Logo GitHub](https://www.federico-toledo.com/wp-content/uploads/2018/09/visualstudio_code-card.png)
 
 # Code Snippets
 Codigo en JSON
